@@ -24,3 +24,18 @@ Bước 6. Mở rộng và nâng cấp(nếu cần): Hệ thống có thể đư
 + Tạo báo cáo theo ngày, tuần, tháng.
 + Phát hiện bất thường (số tăng vọt) và gửi dữ liệu sớm.
 + Tích hợp giao diện biểu đồ và truy xuất lịch sử đọc công tơ.
+![image](https://github.com/user-attachments/assets/2d135508-ca50-4190-9c0c-88a87101f7b2)
+
+Chạy thử code để kích hoạt ESP32 CAM
+
+![image](https://github.com/user-attachments/assets/d151eaf7-eda9-4b9e-8b65-b40f0dfdb5c1)
+
+Chuyển đổi từ cam trên ESP32 CAM sang cam bên Server(từ trái sang phải)
+
+![image](https://github.com/user-attachments/assets/6f21f429-1e14-4277-9f92-dc47793d8fd8)
+
+Đây là số điện trong 1 tháng và tiếp theo là ảnh đã lưu về server và ở dưới là thông tin dữ liệu mà nó nhận dạng được
+
+![image](https://github.com/user-attachments/assets/7ed2091f-5db2-4450-bf77-3d45be794682)
+
+Và đây là dữ liệu em vừa nhận được trên gmail
